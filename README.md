@@ -43,4 +43,4 @@ Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz:
     goto a
     ```
 
-    iyi kullanuımlar
+    iyi kullanımlar

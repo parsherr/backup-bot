@@ -1,4 +1,6 @@
-# Discord.js v14 Slashlı Moderasyon Botu
+# Discord.js v12 backup botu
+
+**Discord sunucularınızı save alıp aldığınız saveleri istediğiniz sunucuya tekrar yükleyebilirsiniz.**
 
 
 ## Kurulum

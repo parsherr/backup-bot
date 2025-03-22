@@ -1,4 +1,4 @@
-# Discord.js v12 backup botu
+# Discord.js v13 backup botu
 
 **Discord sunucularınızı save alıp aldığınız saveleri istediğiniz sunucuya tekrar yükleyebilirsiniz.**
 
